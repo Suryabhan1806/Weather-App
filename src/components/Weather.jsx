@@ -65,7 +65,7 @@ const Weather = () => {
    }
 
    useEffect(()=>{
-    search("London");
+    search("Mirzapur");
    },[])
     
   return (
